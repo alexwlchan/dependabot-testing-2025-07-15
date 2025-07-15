@@ -1,8 +1,3 @@
 -r requirements.in
 
-interrogate
-mypy
-pytest-cov
 ruff
-types-Authlib
-vcrpy
