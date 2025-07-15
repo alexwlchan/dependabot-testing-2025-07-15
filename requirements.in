@@ -1,0 +1,5 @@
+authlib
+flask
+flask-login
+httpx
+keyring
