@@ -8,5 +8,5 @@ cryptography==44.0.2
     # via authlib
 pycparser==2.22
     # via cffi
-ruff==0.12.1
+ruff==0.12.4
     # via -r dev_requirements.in
